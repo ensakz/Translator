@@ -1,0 +1,1 @@
+Git repo for Windows app which does duo translation from English to Ukranian and vice versa. The app utilizes YandexTranslator api. To use the app, you need to request api key from https://translate.yandex.com/developers/keys and put it inside YandexTranslator.cs
